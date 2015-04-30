@@ -2,14 +2,14 @@
 # See https://github.com/svenfuchs/rails-i18n/tree/master/rails%2Flocale for starting points.
 
 en:
-  spree_product_like:
-    favourites: 'Favourites'
-    likes:
+  spree:
+    spree_product_like:
+      likes: 'Likes'
       like: 'like'
       unlike: 'unlike'
 
-    admin:
-      products_ranking: 'Products Ranking'
-      products_ranking_title: 'Products Ranking'
-      likes_count: 'Likes count'
-      no_liked_products: "There's no liked products"
+      admin:
+        products_ranking: 'Products Ranking'
+        products_ranking_title: 'Products Ranking'
+        likes_count: 'Likes count'
+        no_liked_products: "There's no liked products"
